@@ -1,4 +1,4 @@
-(function(){var done=false;var script=document.createElement('script');script.async=true;script.type='text/javascript';script.src='https://app.purechat.com/VisitorWidget/WidgetScript';document.getElementsByTagName('HEAD').item(0).appendChild(script);script.onreadystatechange=script.onload=function(e){if(!done&&(!this.readyState||this.readyState=='loaded'||this.readyState=='complete')){var w=new PCWidget({pureServerUrl:'https://app.purechat.com',c:'8745a214-7c05-4947-b4dd-7a140800dcae',f:true});done=true;}};})();;
+
 /*!
  * Modernizr v2.8.2
  * www.modernizr.com
