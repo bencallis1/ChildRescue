@@ -11455,7 +11455,7 @@ body {
     padding:2em 0 2em 0
 }
 .top-section {
-    background:url('../../../themes/lab/assets/img/wps.jpg'),
+    background:url('../../assets/img/wps.jpg'),
     rgba(255,
             0,
             0,
@@ -11522,13 +11522,13 @@ body {
 .home-intro-photo {
     min-height:600px;
     height:100%;
-    background:url('../../../themes/lab/assets/img/drop-ins.jpg') no-repeat right center;
+    background:url('../../assets/img/drop-ins.jpg') no-repeat right center;
     background-size:cover
 }
 .home-intro-copy {
     display:table;
     min-height:600px;
-    background:url('../../../themes/lab/assets/img/drop-ins.jpg') no-repeat right center;
+    background:url('../../assets/img/drop-ins.jpg') no-repeat right center;
     background-size:cover
 }
 @media (min-width: 768px) {
@@ -11656,13 +11656,13 @@ body {
 .pricing-intro-photo {
     min-height:600px;
     height:100%;
-    background:url('../../../themes/lab/assets/img/drop-ins-2.jpg') no-repeat right center;
+    background:url('../../assets/img/drop-ins-2.jpg') no-repeat right center;
     background-size:cover
 }
 .pricing-intro-copy {
     display:table;
     min-height:600px;
-    background:url('../../../themes/lab/assets/img/drop-ins-2.jpg') no-repeat right center;
+    background:url('../../assets/img/drop-ins-2.jpg') no-repeat right center;
     background-size:cover
 }
 @media (min-width: 768px) {
